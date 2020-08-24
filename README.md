@@ -6,16 +6,16 @@ Home Page (For Customer and Viewer)
 
 Admin Page
 
-![](Bimak_index/admin/upload/admin_dashboard.png)
+![](admin_dashboard.png)
 
 Employee Page
 
-![](Bimak_index/admin/upload/employee dashbaord.JPG)
+![](employee_dashbaord.png)
 
 Delivery Handler Page
 
-![](Bimak_index/admin/upload/delievery dashboard.JPG)
+![](delievery_dashboard.png)
 
 Order Handler Page
 
-![](Bimak_index/admin/upload/order dashboard.JPG)
+![](order_dashboard.png)
