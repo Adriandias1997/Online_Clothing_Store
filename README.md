@@ -2,7 +2,7 @@ BIMAK Online Clothing Store
 
 Home Page (For Customer and Viewer)
 
-![](Bimak/images/icon/images/screenshot.png)
+![](screenshot.png)
 
 Admin Page
 
