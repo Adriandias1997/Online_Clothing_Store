@@ -6,7 +6,7 @@ Home Page (For Customer and Viewer)
 
 Admin Page
 
-![](Bimak_index/admin/upload/admin dashboard.png)
+![](Bimak_index/admin/upload/admin_dashboard.png)
 
 Employee Page
 
