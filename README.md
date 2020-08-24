@@ -2,11 +2,11 @@ BIMAK Online Clothing Store
 
 Home Page (For Customer and Viewer)
 
-![](Bimak/images/icon/images/screenshot.jpg)
+![](Bimak/images/icon/images/screenshot.png)
 
 Admin Page
 
-![](Bimak_index/admin/upload/admin dashboard.JPG)
+![](Bimak_index/admin/upload/admin dashboard.png)
 
 Employee Page
 
