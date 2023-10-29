@@ -1,21 +1,3 @@
 BIMAK Online Clothing Store
 
-Home Page (For Customer and Viewer)
-
-![](screenshot.png)
-
-Admin Page
-
-![](admin_dashboard.png)
-
-Employee Page
-
-![](employee_dashbaord.png)
-
-Delivery Handler Page
-
-![](delievery_dashboard.png)
-
-Order Handler Page
-
-![](order_dashboard.png)
+Bimak is a web-based shopping application designed with HTML, CSS, JavaScript, PHP, and MySQL. It offers a comprehensive shopping experience, featuring a Home Page for customers and viewers, an Admin Page, an Employee Page, a Delivery Handler Page, and an Order Handler Page. This application simplifies and enhances the shopping process, making it an ideal solution for online retail.
